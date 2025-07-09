@@ -18,23 +18,29 @@ It’s a static news portal designed to share trending stories in a clean and re
 ## 🗂️ Project Structure
 
 NewsNova/
-├── index.html # 🏠 Homepage
+├── index.html
 ├── ind-pak_ceasefire news/
-│ └── index.html # 📰 Detailed article
+│ └── index.html
 ├── banner of homepage/
-│ └── india-pakistan-kashmir.webp # 🖼️ News banner image
+│ └── india-pakistan-kashmir.webp
 ├── ind-pak_ceasefire photo/
-│ ├── Trump-1-1.jpg # 📸 Article image
-│ ├── download.jpeg # 📸 Extra image
-│ └── ChatGPT Image...111.png # 🧊 Favicon for article page
+│ ├── Trump-1-1.jpg
+│ ├── download.jpeg
+│ └── ChatGPT Image...111.png
 └── logo/
-└── ChatGPT Image...14 PM.png # 🧊 Favicon for homepage
-
-
-
-
+└── ChatGPT Image...14 PM.png
 
 ---
+
+
+### 🧾 File Descriptions
+
+- 🏠 `index.html` — Main homepage  
+- 📰 `ind-pak_ceasefire news/index.html` — Full article page  
+- 🖼️ `india-pakistan-kashmir.webp` — Homepage banner image  
+- 📸 `Trump-1-1.jpg` / `download.jpeg` — Images used in the news article  
+- 🧊 `ChatGPT Image...png` — Favicon icons for homepage and article page
+
 
 ## ⚙️ Built With
 
